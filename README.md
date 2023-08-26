@@ -1,3 +1,5 @@
 git@github.com:UgamRaj/Food.git
 
-[Hosted Link](https://ugamraj.github.io/Food/)
+## Hosted Link
+
+[Food](https://ugamraj.github.io/Food/)
